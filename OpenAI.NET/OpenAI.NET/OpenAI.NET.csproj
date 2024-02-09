@@ -12,6 +12,7 @@
     <Folder Include="Services\" />
     <Folder Include="Clients\" />
     <Folder Include="Brokers\" />
+	  <Folder Include="TestFolder\" />
   </ItemGroup>
 
 </Project>
