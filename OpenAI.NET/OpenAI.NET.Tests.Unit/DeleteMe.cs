@@ -1,9 +1,9 @@
-using System.Windows.Markup;
+
 using Xunit;
 
 namespace OpenAI.NET.Tests.Unit
 {
-    public class DeleteMe
+    internal class DeleteMe
     {
         [Fact]
         public void ShouldBeTrue() => Assert.True(condition: true);
